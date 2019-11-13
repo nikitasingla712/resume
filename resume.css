@@ -1,0 +1,31 @@
+body{
+  background-color:white;
+}
+.pic{
+  height:100%;
+  width:500px;
+  top:0px;
+  left:0px;
+  position: absolute;
+}
+.details{
+  background-color:white;
+  height:100%;
+  width:880px;
+  position: absolute;
+  left:486px;
+  top:0px;
+
+}
+#education
+{
+  border-collapse: collapse;
+  width:100%;
+  color:black;
+  border:1px solid black;
+}
+#education th
+{
+  padding:10px;
+  border:1px solid black;
+}
